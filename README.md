@@ -8,7 +8,7 @@ This is a YouTube clone project built with React, Material-UI, React Router, and
 
 ## Live Site
 
-Check out the live site [here](https://c4r-hub.vercel.app/).
+Check out the live site [here](https://my-tub3.netlify.app/).
 
 ## Features
 
